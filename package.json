@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-eslint-format-gsap",
+  "name": "@rjwadley/eslint-format-gsap",
   "version": "0.0.1",
   "description": "better gsap formatting",
   "keywords": [
@@ -28,5 +28,17 @@
   "peerDependencies": {
     "eslint": ">=6"
   },
-  "license": "ISC"
+  "license": "MIT",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RJWadley/eslint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RJWadley/eslint/issues"
+  },
+  "homepage": "https://github.com/RJWadley/eslint#readme"
 }
