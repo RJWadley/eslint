@@ -1,4 +1,4 @@
-# eslint-plugin-eslint-format-gsap
+# eslint-format-gsap
 
 better gsap formatting
 
@@ -10,10 +10,10 @@ You'll first need to install [ESLint](https://eslint.org/):
 npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-eslint-format-gsap`:
+Next, install `eslint-format-gsap`:
 
 ```sh
-npm install eslint-plugin-eslint-format-gsap --save-dev
+npm install eslint-format-gsap --save-dev
 ```
 
 ## Usage
