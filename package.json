@@ -1,5 +1,5 @@
 {
-  "name": "@rjwadley/eslint-format-gsap",
+  "name": "@rjwadley/eslint-plugin-format-gsap",
   "version": "0.0.2",
   "description": "better gsap formatting",
   "keywords": [
